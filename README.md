@@ -1,4 +1,6 @@
 # Internal Communication
+_This, together with the content, are duplicated from [HKU-RoboMaster](https://github.com/HKURoboMaster)_
+
 _The repo aims at establishing a fast, simple, robust and secure
 communication channels between components of the robots._ 
 
