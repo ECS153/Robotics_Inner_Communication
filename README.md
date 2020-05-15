@@ -79,6 +79,10 @@ asymmetric encryption.
 1. During the communication, data is encrypted under a symetric algorithm
 with the secrete key just being negotiated.
 
+## Deployment and Documentation
+Please refer to our GitHub 
+[Wiki](https://github.com/ECS153/Robotics_Inner_Communication/wiki)
+
 ## Declaration
 
 The project is a part of the HKU RoboMaster teamwork, propoused by Mr. David Y.
